@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
     'cat_game',
 ]
 
@@ -69,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'webinar36.wsgi.application'
+WSGI_APPLICATION = 'hw50.wsgi.application'
 
 
 # Database
